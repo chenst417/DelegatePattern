@@ -6,6 +6,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
+//spring mvc
 public class DispatcherServlet extends HttpServlet {
 
     @Override
